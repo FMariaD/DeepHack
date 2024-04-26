@@ -1,0 +1,10 @@
+aiogram==2.23.1
+chromadb==0.5.0
+feedparser==6.0.11
+gigachat==0.1.23
+langchain==0.1.16
+langchain-community==0.0.34
+pypdf2==3.0.1
+redis==5.0.4
+requests==2.31.0
+ruamel-yaml==0.18.6

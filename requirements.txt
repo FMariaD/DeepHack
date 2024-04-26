@@ -1,0 +1,10 @@
+aiogram
+chromadb
+feedparser
+gigachat
+langchain
+langchain-community
+pypdf2
+redis
+requests
+ruamel-yaml
